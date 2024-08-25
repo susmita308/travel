@@ -4,6 +4,8 @@ nav {
   justify-content: space-between;
   margin: 0px 200px;
 }
+.header{margin-bottom: 0px;}
+
 nav ul {
   display: flex;
   align-items: center;
@@ -32,11 +34,11 @@ nav li {
   gap: 50px;
 }
 .mal {
-  background-image: url(/img/Rectangle\ 5.png);
+  background-image: url(../img/Rectangle\ 5.png);
   background-repeat: no-repeat;
 }
 .ind {
-  background-image: url(/img/Rectangle\ 8.png);
+  background-image: url(../img/Rectangle\ 8.png);
   background-repeat: no-repeat;
 }
 h2 {
@@ -49,16 +51,16 @@ h2 {
   margin: 0px 200px;
 }
 .sri {
-  background-image: url(/img/Rectangle\ 6.png);
+  background-image: url(../img/Rectangle\ 6.png);
   background-repeat: no-repeat;
   padding-left: 10px;
 }
 .nor {
-  background-image: url(/img/Rectangle\ 7.png);
+  background-image: url(../img/Rectangle\ 7.png);
   background-repeat: no-repeat;
 }
 .kas {
-  background-image: url(/img/Rectangle\ 9.png);
+  background-image: url(../img/Rectangle\ 9.png);
   background-repeat: no-repeat;
 }
 .srinor {
@@ -77,6 +79,7 @@ h2 {
   color: aliceblue;
   margin: 100px 100px;
 }
+.ex{margin-top: 10px;}
 .nor h3 {
   font-size: 30px;
   text-align: center;
@@ -84,11 +87,11 @@ h2 {
   margin: 50px 200px;
 }
 .desh {
-  background-image: url(/img/Rectangle\ 11.png);
+  background-image: url(../img/Rectangle\ 11.png);
   background-repeat: no-repeat;
 }
 .ban {
-  background-image: url(/img/Rectangle\ 10.png);
+  background-image: url(../img/Rectangle\ 10.png);
   background-repeat: no-repeat;
 }
 .banban {
@@ -110,30 +113,60 @@ h2 {
 .five {
   margin: 0px 200px;
 }
-.blarge{align-items: center; margin: 10px 600px; background-color: orangered; color: antiquewhite; border: 5px;
-font-size: 25px;}
-.last1{display: flex; margin: 50px 600px;}
-.last{background-color: azure;}
-.h{font-size: 30px;}
+.blarge {
+  align-items: center;
+  margin: 10px 600px;
+  background-color: orangered;
+  color: antiquewhite;
+  border: 5px;
+  font-size: 25px;
+}
+.last1 {
+  display: flex;
+  margin: 50px 600px;
+}
+.last {
+  background-color: azure;
+}
+.h {
+  font-size: 30px;
+}
 .hot {
   display: flex;
   gap: 80px;
 }
-small{margin: 50px 600px;
-margin-bottom: 50px;}
-.logo{margin: 20px 700px;
-margin-bottom: 100px;}
+small {
+  margin: 50px 600px;
+  margin-bottom: 50px;
+}
+.logo {
+  margin: 20px 700px;
+  margin-bottom: 100px;
+}
+.header .nav .third .four .banner{flex-direction: column;}
 .ex {
   text-align: center;
-  margin-top: 20px;
 }
 .place {
   gap: 10px;
 }
-.banner {background-image:url(/img/Group\ 13\ \(1\)\ \(1\).png);background-repeat: no-repeat; height: 500px; width: 1200px;
-  margin: 40px; margin-left: 150px;
+.banner {
+  background-image: url(../img/banner.png);
+  background-repeat: no-repeat;
+  height: 500px;
+  width: 1200px;
+  margin: 10px;
+  margin-left: 140px;
 }
-.form{display: flex; gap: 50px; margin: 10px 240px;} .for{border: 1px solid orangered; margin: 10px;}
+.form {
+  display: flex;
+  gap: 50px;
+  margin: 10px 240px;
+}
+.for {
+  border: 1px solid orangered;
+  margin: 10px;
+}
 .hotel {
   background-color: antiquewhite;
   border: 1px solid antiquewhite;
@@ -163,7 +196,7 @@ h1 {
 }
 
 .six {
-  background-image: url(/img/Group\ 39.png);
+  background-image: url(../img/Group\ 39.png);
   height: 500px;
   width: 1600px;
   background-repeat: no-repeat;
@@ -171,7 +204,7 @@ h1 {
   margin-left: 150px;
 }
 .seven {
-  background-image: url(/img/Group\ 40.png);
+  background-image: url(../img/Group\ 40.png);
   height: 500px;
   width: 1600px;
   background-repeat: no-repeat;
@@ -211,6 +244,6 @@ h6 {
   margin: 50px 200px;
 }
 .watch {
-  background-image: url(/img/Group\ 40089.png);
+  background-image: url(../img/Group\ 40089.png);
   background-repeat: no-repeat;
 }
